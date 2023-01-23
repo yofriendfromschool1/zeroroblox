@@ -1,6 +1,6 @@
 # ZEROROBLOX
 
-An intuitive roblox cookie logger that can be used to get the victims cookies, tokens, and many other misc files on their pc.  
+An intuitive roblox cookie logger that can be used to get the victims cookies, tokens, and many other misc files on the users computer and network.
 
 ## FEATURES 
 
