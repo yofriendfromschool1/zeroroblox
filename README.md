@@ -28,7 +28,6 @@ auto trade limiteds
 
 ## Authors
 
-Contributors names and contact info
 
 hmu on discord if you have any questions
   matrixdevs#0001 
@@ -45,11 +44,6 @@ hmu on discord if you have any questions
 
 see the LICENSE.md file for details
 
-## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+![image](https://user-images.githubusercontent.com/73804475/213949021-75f5c1bf-9e29-46ce-93ef-a798163d1b99.png)![image](https://user-images.githubusercontent.com/73804475/213949042-5c3f19b1-c3ba-4d92-bb14-a727fbc003b8.png)
+
