@@ -1,5 +1,8 @@
 # ZEROROBLOX
 
+![image](https://user-images.githubusercontent.com/73804475/213949191-1ae7db03-4e53-4ae8-aef0-1a831fd73a45.png)
+
+
 An intuitive roblox cookie logger that can be used to get the victims cookies, tokens, and many other misc files on the users computer and network.
 
 ## FEATURES 
