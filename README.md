@@ -8,13 +8,21 @@ An intuitive roblox cookie logger that can be used to get the victims cookies, t
 ## FEATURES 
 
 roblox cookie 
+
 discord token
+
 ip log
+
 browsing history
+
 webhook integration
+
 SMS spam
+
 DOS/DDOS
+
 account nuke
+
 auto trade limiteds
 
 ## Getting Started
