@@ -20,6 +20,8 @@ auto trade limiteds
   hit "0" to pull up the logger creation settings 
   use the logger files/scripts how you want! these can be configured as QR codes or .PY files. 
   WE DO NOT ENCOURAGE ANY ILLEGAL USE! 
+  
+  ⚠️NOTE! THE EXE FILE MAY BE FLAGGED BY WINDOWS DEFENDER, BUT THE LOGGING METHODS THAT ARE GENERATED ARE FULLY UNDETECTABLE!⚠️
 
 ### Dependencies
 
