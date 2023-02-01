@@ -1,6 +1,7 @@
 # ZEROROBLOX
 
 ![image](https://user-images.githubusercontent.com/73804475/213949191-1ae7db03-4e53-4ae8-aef0-1a831fd73a45.png)
+![image-removebg-preview (1)](https://user-images.githubusercontent.com/73804475/216054785-a539cedb-3834-4da8-b532-4fca4fe34770.png)
 
 
 UPDATE - ADVANCED PASSWORD LOGS!
