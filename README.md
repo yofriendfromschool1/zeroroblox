@@ -3,7 +3,7 @@
 ![image-removebg-preview (1)](https://user-images.githubusercontent.com/73804475/216054785-a539cedb-3834-4da8-b532-4fca4fe34770.png)
 
 
-UPDATE - FASTER WEBHOOK SENDING :D
+UPDATE - FASTER WEBHOOK SENDING!
 
 
 An intuitive roblox cookie logger that can be used to get the victims cookies, tokens, and many other misc files on the users computer and network.
